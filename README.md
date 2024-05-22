@@ -56,6 +56,4 @@ Para cualquier consulta o contribución, por favor contacta al administrador del
 
 - **Email**: eduardojgriboldi@gmail.com
 - **LinkedIn**: [Eduardo García Riboldi](https://www.linkedin.com/in/eduardo-garcia-riboldi-36803a222)
-- **GitHub**: [ChepeGR](https://github.com/ChepeGR)
 
-¡Gracias por utilizar nuestro conjunto de desafíos de código de Codewars!
